@@ -1,0 +1,4 @@
+# https://developers.home-assistant.io/docs/add-ons/repository#repository-configuration
+name: Chromium Home Assistant Add-on
+url: 'https://github.com/AngeloMontesano/ha-addons'
+maintainer: Angelo Montesano
